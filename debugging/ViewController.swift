@@ -12,7 +12,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        // Example of using print to debug
+        print("I'm inside the viewDidLoad() method.")
+        print(1, 2, 3, 4, 5, separator: "-", terminator: "")
     }
 
 
