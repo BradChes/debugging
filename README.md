@@ -7,4 +7,6 @@
 Samples of debugging in Xcode.
 
 ## Examples within this code
-- To be filled in.
+- print()
+- assert()
+- breakpoint explanation
